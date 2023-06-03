@@ -1,0 +1,29 @@
+.body_background 
+{
+    
+	background:url(grass.webp);
+	background-repeat: no-repeat;
+	background-position: center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background:url(ground.png);
+
+	background-color:forestgreen;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: rgb(255, 255, 255);
+	font-family: "Cinzel";
+	font-size: 40px;}
+
+#go{
+	display: inline-block;
+	color: rgb(255, 255, 255);
+	font-family: "Cinzel";
+	font-size: 30px;}
